@@ -3,7 +3,7 @@ import { GithubIcon } from "./ui/github-icon";
 /**
  * Header — Minimal, clean design with text logo, centered tag, and GitHub link
  */
-const GITHUB_URL = "https://github.com/vinay-patel22";
+const GITHUB_URL = "https://github.com/vinay-patel22/Open-Image-Converter";
 
 export function Header() {
   return (
