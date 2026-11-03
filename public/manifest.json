@@ -1,0 +1,11 @@
+{
+  "name": "Open Image Converter",
+  "short_name": "Image Converter",
+  "description": "Convert images between PNG, JPG, WebP, AVIF, GIF, BMP, TIFF, ICO, and SVG entirely in your browser. 100% private.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#7c3aed",
+  "orientation": "portrait-primary",
+  "categories": ["productivity", "utilities", "photo"]
+}

@@ -1,0 +1,11 @@
+# robots.txt for Open Image Converter
+# Allow all crawlers to index the site
+
+User-agent: *
+Allow: /
+
+# Disallow API endpoints (if any)
+Disallow: /api/
+
+# Sitemap location
+Sitemap: https://open-image-converter.vercel.app/sitemap.xml
